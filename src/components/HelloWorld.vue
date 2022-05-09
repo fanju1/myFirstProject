@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}1234</h1>
+    <h1>{{ msg }}12345</h1>
     <h2>Essential Links</h2>
     <ul>
       <li>
